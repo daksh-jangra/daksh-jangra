@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I'm Daksh 👋
 
-<!--
-**daksh-jangra/daksh-jangra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS sophomore at **BITS Pilani, Goa** ('27) — building backends, ML pipelines, and the occasional robot.
 
-Here are some ideas to get you started:
+Currently learning: LangChain, system design, MongoDB, LLD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/daksh-jangra-7b3931218)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:daksh.jangraxzi@gmail.com)
