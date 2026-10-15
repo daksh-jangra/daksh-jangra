@@ -49,51 +49,15 @@ CS student who likes building things end-to-end - agentic AI, RAG systems, ML pi
 
 ## 💻 stack
 
-**Languages**&nbsp;
-![Python](https://img.shields.io/badge/Python-4a5568?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-4a5568?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-4a5568?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-4a5568?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4a5568?style=flat&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-4a5568?style=flat&logo=javascript&logoColor=white)
-
-**AI & Agents**&nbsp;
-![LangChain](https://img.shields.io/badge/LangChain-4a5568?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-4a5568?style=flat&logo=langgraph&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-4a5568?style=flat&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-4a5568?style=flat&logo=claude&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-4a5568?style=flat&logo=googlegemini&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4a5568?style=flat&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-4a5568?style=flat&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4a5568?style=flat&logoColor=white)
-
-**Data & ML**&nbsp;
-![NumPy](https://img.shields.io/badge/NumPy-4a5568?style=flat&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-4a5568?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-4a5568?style=flat&logo=scikit-learn&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-4a5568?style=flat&logoColor=white)
-![LIME](https://img.shields.io/badge/LIME-4a5568?style=flat&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-4a5568?style=flat&logo=streamlit&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-4a5568?style=flat&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4a5568?style=flat&logoColor=white)
-
-**Computer Vision**&nbsp;
-![OpenCV](https://img.shields.io/badge/OpenCV-4a5568?style=flat&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-4a5568?style=flat&logo=mediapipe&logoColor=white)
-
-**Web & Database**&nbsp;
-![React](https://img.shields.io/badge/React-4a5568?style=flat&logo=react&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-4a5568?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-4a5568?style=flat&logo=flask&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-4a5568?style=flat&logo=pydantic&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4a5568?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-4a5568?style=flat&logo=sqlite&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-4a5568?style=flat&logo=sqlalchemy&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-4a5568?style=flat&logo=html5&logoColor=white)
-
-**Tools**&nbsp;
-![Git](https://img.shields.io/badge/Git-4a5568?style=flat&logo=git&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-4a5568?style=flat&logo=pytest&logoColor=white)
+| area | tools |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-4a5568?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-4a5568?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-4a5568?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-4a5568?style=flat&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4a5568?style=flat&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-4a5568?style=flat&logo=javascript&logoColor=white) |
+| **AI & Agents** | ![LangChain](https://img.shields.io/badge/LangChain-4a5568?style=flat&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-4a5568?style=flat&logo=langgraph&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-4a5568?style=flat&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-4a5568?style=flat&logo=claude&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4a5568?style=flat&logo=googlegemini&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-4a5568?style=flat&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4a5568?style=flat&logoColor=white) |
+| **Data & ML** | ![NumPy](https://img.shields.io/badge/NumPy-4a5568?style=flat&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-4a5568?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-4a5568?style=flat&logo=scikit-learn&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP-4a5568?style=flat&logoColor=white) ![LIME](https://img.shields.io/badge/LIME-4a5568?style=flat&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-4a5568?style=flat&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4a5568?style=flat&logoColor=white) |
+| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-4a5568?style=flat&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-4a5568?style=flat&logo=mediapipe&logoColor=white) |
+| **Web** | ![React](https://img.shields.io/badge/React-4a5568?style=flat&logo=react&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-4a5568?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-4a5568?style=flat&logo=flask&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-4a5568?style=flat&logo=pydantic&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-4a5568?style=flat&logo=streamlit&logoColor=white) ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-4a5568?style=flat&logo=html5&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4a5568?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-4a5568?style=flat&logo=sqlite&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-4a5568?style=flat&logo=sqlalchemy&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-4a5568?style=flat&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-4a5568?style=flat&logo=git&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-4a5568?style=flat&logo=pytest&logoColor=white) |
 
 ---
 
