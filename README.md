@@ -59,7 +59,10 @@ CS student who likes building things end-to-end - agentic AI, RAG systems, ML pi
 
 **AI & Agents**&nbsp;
 ![LangChain](https://img.shields.io/badge/LangChain-4a5568?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4a5568?style=flat&logo=langgraph&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-4a5568?style=flat&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-4a5568?style=flat&logo=claude&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4a5568?style=flat&logo=googlegemini&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-4a5568?style=flat&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-4a5568?style=flat&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4a5568?style=flat&logoColor=white)
@@ -74,15 +77,23 @@ CS student who likes building things end-to-end - agentic AI, RAG systems, ML pi
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-4a5568?style=flat&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4a5568?style=flat&logoColor=white)
 
+**Computer Vision**&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-4a5568?style=flat&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-4a5568?style=flat&logo=mediapipe&logoColor=white)
+
 **Web & Database**&nbsp;
 ![React](https://img.shields.io/badge/React-4a5568?style=flat&logo=react&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-4a5568?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-4a5568?style=flat&logo=flask&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-4a5568?style=flat&logo=pydantic&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4a5568?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-4a5568?style=flat&logo=sqlite&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-4a5568?style=flat&logo=sqlalchemy&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-4a5568?style=flat&logo=html5&logoColor=white)
 
 **Tools**&nbsp;
 ![Git](https://img.shields.io/badge/Git-4a5568?style=flat&logo=git&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-4a5568?style=flat&logo=pytest&logoColor=white)
 
 ---
 
